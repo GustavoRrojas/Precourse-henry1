@@ -1,2 +1,1 @@
-# Precourse-henry1
-Este es un repositorio del modulo 2 del Precourse de henry
+Este es una prueba de como crear un reposotorio y clonarlo desde la computadora
